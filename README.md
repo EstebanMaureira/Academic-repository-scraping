@@ -1,7 +1,4 @@
-Here's the presentation translated into English for your GitHub project:
-
----
-
+ 
 # Academic Scraping: Unveiling the Hidden Treasure of University Research
 
 ## Introduction
